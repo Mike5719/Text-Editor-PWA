@@ -11,7 +11,7 @@ To install the app the user must open an integrated CLI at the root of the direc
 ## Usage:
 
 
-![Landing Page](<./client/dist/assets/landingpage.png>)
+![Landing Page](<./assets/landingpage.png>)
 
 Deployed Application:
 
