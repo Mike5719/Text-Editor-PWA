@@ -6,7 +6,7 @@ Here you will find a text editor that runs in the browser. This app is a single 
 
 ## Installation:
 
-To install the app the user must open an integrated CLI at the root of the directory. I in the CLI simply type `NPM i` and after all dependencies have been installed, start the application by typing `NPM start` in the CLI. Finally, right click the index.html file in the client/dist folder and select "Open with Live Server" from the list of options. This will take you to the Text-Editor landing page.
+To install the app the user must open an integrated CLI at the root of the directory. In the CLI simply type `NPM i` and after all dependencies have been installed, start the application by typing `NPM start` in the CLI. Finally, right click the index.html file in the client/dist folder and select "Open with Live Server" from the list of options. This will take you to the Text-Editor landing page.
 
 ## Usage:
 
